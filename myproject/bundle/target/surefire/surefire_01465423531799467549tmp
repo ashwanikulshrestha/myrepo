@@ -1,0 +1,10 @@
+#surefire_0
+#Thu Sep 08 17:11:26 IST 2016
+user.dir=C\:\\Users\\ashwani.kulshrestha\\Desktop\\jenkinseclipse\\eclipse-demo\\myproject\\bundle
+crx.user=admin
+crx.port=4502
+localRepository=C\:\\Users\\ashwani.kulshrestha\\.m2\\repository
+vault.timeout=30
+basedir=C\:\\Users\\ashwani.kulshrestha\\Desktop\\jenkinseclipse\\eclipse-demo\\myproject\\bundle
+crx.password=admin
+crx.host=localhost
